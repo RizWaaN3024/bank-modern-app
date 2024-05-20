@@ -38,3 +38,4 @@ npm run dev
 Visit http://localhost:3000 in your web browser to view the application.
 ```
 
+![bank-modern-app](https://github.com/RizWaaN3024/bank-modern-app/assets/108953802/aa9d7d2b-a405-478b-8692-4f86693b0d59)
