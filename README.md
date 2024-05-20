@@ -29,4 +29,3 @@ To get started with the project, follow these steps:
 
 4. Open in Browser:
     Visit http://localhost:3000 in your web browser to view the application.
-![bank-modern-app](https://github.com/RizWaaN3024/bank-modern-app/assets/108953802/487f99a8-6e10-4ea5-89b4-c08189dbe4e2)
